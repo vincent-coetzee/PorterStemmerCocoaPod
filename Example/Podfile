@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PorterStemmer_Tests' do
+  pod 'PorterStemmer', :path => '../'
+  
+  
+end
