@@ -12,15 +12,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3017A1F3BF47D39D9F38AA11 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3017A1F3BF47D39D9F38AA11 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		362FA04E8D1A0A98E94CF039 /* Pods_PorterStemmer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PorterStemmer_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E856F861DC88CFD1FC676DF /* Pods-PorterStemmer_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PorterStemmer_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PorterStemmer_Tests/Pods-PorterStemmer_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* PorterStemmer_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PorterStemmer_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		714EAFAF26A01FABCD6B8B56 /* Pods-PorterStemmer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PorterStemmer_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PorterStemmer_Tests/Pods-PorterStemmer_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FAF9CFB5075EDB0DE59660A3 /* PorterStemmer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PorterStemmer.podspec; path = ../PorterStemmer.podspec; sourceTree = "<group>"; };
-		FFBAC106EC19DE6C89913BAA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FAF9CFB5075EDB0DE59660A3 /* PorterStemmer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PorterStemmer.podspec; path = ../PorterStemmer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FFBAC106EC19DE6C89913BAA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

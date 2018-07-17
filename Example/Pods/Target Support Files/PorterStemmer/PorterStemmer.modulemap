@@ -1,0 +1,6 @@
+framework module PorterStemmer {
+  umbrella header "PorterStemmer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - PorterStemmer (0.1.0)
+
+DEPENDENCIES:
+  - PorterStemmer (from `../`)
+
+EXTERNAL SOURCES:
+  PorterStemmer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PorterStemmer: d675aa5fd9847effb6b5df022ddbe56db60e624b
+
+PODFILE CHECKSUM: 776242ad109ec0f046a870cec18756496a67ab09
+
+COCOAPODS: 1.5.3

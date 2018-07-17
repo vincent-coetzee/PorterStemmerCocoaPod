@@ -1,0 +1,22 @@
+{
+  "name": "PorterStemmer",
+  "version": "0.1.0",
+  "summary": "A short description of PorterStemmer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vincent Coetzee/PorterStemmer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vincent Coetzee": "vincent.coetzee@glucode.com"
+  },
+  "source": {
+    "git": "https://github.com/Vincent Coetzee/PorterStemmer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PorterStemmer/Classes/**/*"
+}
